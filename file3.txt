@@ -1,0 +1,2 @@
+Angular 7 released in October 2018, just like it was scheduled.
+The new features of the framework are the updated form of Node 10.
